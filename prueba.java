@@ -5,6 +5,11 @@ public class prueba
         System.out.println("Hola Mundo");
     }
 
+    public void metodo()
+    {
+        System.out.println("Hola Mundo");
+    }
+
     //hola me gusta el pan
 
 
